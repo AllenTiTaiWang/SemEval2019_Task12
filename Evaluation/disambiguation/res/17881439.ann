@@ -1,0 +1,18 @@
+T1	Location 2897 2911	Southeast Asia
+#1	AnnotatorNotes T1	<latlng>12.38293, 103.00781</latlng><pop>608290000.0</pop><geoID>6942346</geoID>
+T2	Location 2935 2940	China
+#2	AnnotatorNotes T2	<latlng>35.0, 105.0</latlng><pop>1330044000.0</pop><geoID>1814991</geoID>
+T22	Location 2947 2953	Africa
+#22	AnnotatorNotes T22	<latlng>7.1881, 21.09375</latlng><pop>1031833000.0</pop><geoID>6255146</geoID>
+T23	Location 2959 2965	Turkey
+#23	AnnotatorNotes T23	<latlng>39.0, 35.0</latlng><pop>77804122.0</pop><geoID>298795</geoID>
+T24	Location 2976 2983	Siberia
+#24	AnnotatorNotes T24	<latlng>38.23811, -86.7336</latlng><pop>0.0</pop><geoID>4264789</geoID>
+T33	Location 6597 6604	Atlanta
+#33	AnnotatorNotes T33	<latlng>33.749, -84.38798</latlng><pop>463878.0</pop><geoID>4180439</geoID>
+T7	Location 6606 6608	GA
+#7	AnnotatorNotes T7	<latlng>32.75042, -83.50018</latlng><pop>8975842.0</pop><geoID>4197000</geoID>
+T9	Location 7702 7704	ME
+#9	AnnotatorNotes T9	<latlng>5.7275, 9.49176</latlng><pop>0.0</pop><geoID>2226438</geoID>
+T11	Location 8278 8280	MO
+#11	AnnotatorNotes T11	<latlng>55.81363, 36.71631</latlng><pop>7095120.0</pop><geoID>524925</geoID>

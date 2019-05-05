@@ -1,0 +1,54 @@
+T15	Location 3514 3521	Denmark
+#15	AnnotatorNotes T15	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T16	Location 3747 3754	Denmark
+#16	AnnotatorNotes T16	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T17	Location 4605 4612	Denmark
+#17	AnnotatorNotes T17	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T18	Location 4794 4800	Europe
+#18	AnnotatorNotes T18	<latlng>33.51355, 36.29511</latlng><pop>0.0</pop><geoID>9962598</geoID>
+T19	Location 6248 6255	Denmark
+#19	AnnotatorNotes T19	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T20	Location 6845 6851	Sweden
+#20	AnnotatorNotes T20	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T21	Location 7154 7160	Sweden
+#21	AnnotatorNotes T21	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T22	Location 7162 7168	Norway
+#22	AnnotatorNotes T22	<latlng>62.0, 10.0</latlng><pop>5009150.0</pop><geoID>3144096</geoID>
+T23	Location 7170 7178	Scotland
+#23	AnnotatorNotes T23	<latlng>56.0, -4.0</latlng><pop>5404700.0</pop><geoID>2638360</geoID>
+T24	Location 7193 7200	Iceland
+#24	AnnotatorNotes T24	<latlng>-31.27365, 27.38694</latlng><pop>0.0</pop><geoID>994999</geoID>
+T25	Location 7205 7214	Australia
+#25	AnnotatorNotes T25	<latlng>-25.0, 135.0</latlng><pop>21515754.0</pop><geoID>2077456</geoID>
+T26	Location 7266 7273	Denmark
+#26	AnnotatorNotes T26	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T27	Location 7299 7317;7318 7325	Region of Southern Denmark
+#27	AnnotatorNotes T27	<latlng>55.37911, 10.345</latlng><pop>1200277.0</pop><geoID>6418542</geoID>
+T28	Location 7496 7522	Region of Southern Denmark
+#28	AnnotatorNotes T28	<latlng>55.37911, 10.345</latlng><pop>1200277.0</pop><geoID>6418542</geoID>
+T29	Location 7565 7587	Central Denmark Region
+#29	AnnotatorNotes T29	<latlng>56.16667, 9.5</latlng><pop>1253998.0</pop><geoID>6418539</geoID>
+T31	Location 7628 7648	North Denmark Region
+#31	AnnotatorNotes T31	<latlng>57.0, 9.66667</latlng><pop>580273.0</pop><geoID>6418540</geoID>
+T32	Location 7899 7906	Denmark
+#32	AnnotatorNotes T32	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T33	Location 10626 10632	Sweden
+#33	AnnotatorNotes T33	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T34	Location 10637 10643	Norway
+#34	AnnotatorNotes T34	<latlng>62.0, 10.0</latlng><pop>5009150.0</pop><geoID>3144096</geoID>
+T36	Location 11820 11826	Sweden
+#36	AnnotatorNotes T36	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T37	Location 12515 12522	Denmark
+#37	AnnotatorNotes T37	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T38	Location 16461 16468	Denmark
+#38	AnnotatorNotes T38	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T39	Location 16631 16637	Sweden
+#39	AnnotatorNotes T39	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T40	Location 16844 16850	Sweden
+#40	AnnotatorNotes T40	<latlng>62.0, 15.0</latlng><pop>9828655.0</pop><geoID>2661886</geoID>
+T41	Location 16822 16829	Denmark
+#41	AnnotatorNotes T41	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T30	Location 7611 7618	Denmark
+#30	AnnotatorNotes T30	<latlng>56.0, 10.0</latlng><pop>5484000.0</pop><geoID>2623032</geoID>
+T42	Location 7593 7607	Capital Region
+#42	AnnotatorNotes T42	<latlng>55.83333, 12.33333</latlng><pop>1680271.0</pop><geoID>6418538</geoID>

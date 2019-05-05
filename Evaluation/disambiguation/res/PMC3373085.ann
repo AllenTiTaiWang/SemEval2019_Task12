@@ -1,0 +1,246 @@
+T11	Location 44 50	Mexico
+#11	AnnotatorNotes T11	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T12	Location 426 432	Mexico
+#12	AnnotatorNotes T12	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T13	Location 528 534	Mexico
+#13	AnnotatorNotes T13	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T14	Location 560 573	United States
+T15	Location 664 670	Mexico
+#14	AnnotatorNotes T15	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T16	Location 696 709	United States
+T17	Location 841 849	New York
+T18	Location 884 897	United States
+T19	Location 901 911	California
+T20	Location 1043 1056	United States
+T21	Location 1100 1106	Mexico
+T22	Location 1151 1164	United States
+T23	Location 1187 1193	Mexico
+T24	Location 1202 1207	Texas
+#15	AnnotatorNotes T21	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#16	AnnotatorNotes T23	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T25	Location 1274 1280	Mexico
+#17	AnnotatorNotes T25	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T26	Location 1336 1343	Tabasco
+T27	Location 1375 1381	Mexico
+#18	AnnotatorNotes T27	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T28	Location 1421 1427	Mexico
+#19	AnnotatorNotes T28	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T29	Location 1433 1438	Texas
+T31	Location 1883 1889	Mexico
+#20	AnnotatorNotes T31	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T32	Location 1925 1934	Caribbean
+T33	Location 1981 1994	United States
+T34	Location 2021 2028	Florida
+T35	Location 2193 2201	New York
+T36	Location 2206 2213	Florida
+T37	Location 2265 2274	Louisiana
+T38	Location 2283 2300	Yucatan Peninsula
+T39	Location 2304 2310	Mexico
+#21	AnnotatorNotes T39	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#22	AnnotatorNotes T14	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#23	AnnotatorNotes T16	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#24	AnnotatorNotes T18	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#25	AnnotatorNotes T20	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#26	AnnotatorNotes T22	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#27	AnnotatorNotes T33	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#28	AnnotatorNotes T17	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#29	AnnotatorNotes T35	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#30	AnnotatorNotes T19	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#31	AnnotatorNotes T24	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#32	AnnotatorNotes T29	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#33	AnnotatorNotes T26	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#34	AnnotatorNotes T32	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#35	AnnotatorNotes T34	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#36	AnnotatorNotes T36	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#37	AnnotatorNotes T37	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+#38	AnnotatorNotes T38	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T30	Location 2458 2475	Yucatan Peninsula
+#39	AnnotatorNotes T30	<latlng>19.69302, -89.05037</latlng><pop>0.0</pop><geoID>3514210</geoID>
+T40	Location 2566 2579	United States
+T41	Location 2585 2591	Mexico
+T42	Location 2624 2633	Caribbean
+T43	Location 2787 2793	Mexico
+T44	Location 2900 2910	Nuevo Leon
+T45	Location 3029 3039	California
+T46	Location 3045 3050	Texas
+T47	Location 3083 3098	Rocky Mountains
+T48	Location 3135 3141	Mexico
+T49	Location 3180 3195	Baja California
+T50	Location 3298 3308	California
+T52	Location 3398 3408	California
+T51	Location 3431 3446	Baja California
+T53	Location 3451 3457	Sonora
+T54	Location 3647 3653	Mexico
+T55	Location 3766 3773	Tabasco
+T56	Location 3880 3886	Mexico
+T57	Location 3896 3909	United States
+T58	Location 3927 3933	Mexico
+T59	Location 3989 3995;3996 4002	United States
+T60	Location 4049 4055	Mexico
+T61	Location 4064 4071	Florida
+T62	Location 4080 4089	Louisiana
+T63	Location 4098 4105	Arizona
+T64	Location 4118 4128	California
+T65	Location 4201 4207	Sonora
+T66	Location 4216 4226	Tamaulipas
+T67	Location 4239 4254	Baja California
+T68	Location 4467 4475	Valencia
+T69	Location 4477 4479	CA
+T70	Location 4481 4484	USA
+#40	AnnotatorNotes T40	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#41	AnnotatorNotes T57	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#42	AnnotatorNotes T70	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#43	AnnotatorNotes T59	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#44	AnnotatorNotes T41	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#45	AnnotatorNotes T43	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#46	AnnotatorNotes T48	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#47	AnnotatorNotes T54	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#48	AnnotatorNotes T56	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#49	AnnotatorNotes T58	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#50	AnnotatorNotes T60	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#51	AnnotatorNotes T42	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#52	AnnotatorNotes T44	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#53	AnnotatorNotes T45	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#54	AnnotatorNotes T50	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#55	AnnotatorNotes T64	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#56	AnnotatorNotes T69	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#57	AnnotatorNotes T46	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#58	AnnotatorNotes T47	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#59	AnnotatorNotes T49	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#60	AnnotatorNotes T51	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#61	AnnotatorNotes T67	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#62	AnnotatorNotes T52	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#63	AnnotatorNotes T53	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#64	AnnotatorNotes T55	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#65	AnnotatorNotes T61	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#66	AnnotatorNotes T62	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#67	AnnotatorNotes T63	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#68	AnnotatorNotes T65	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#69	AnnotatorNotes T66	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+#70	AnnotatorNotes T68	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T71	Location 5363 5374	Foster City
+T72	Location 5376 5378	CA
+T73	Location 5380 5383	USA
+T74	Location 6365 6372	Florida
+T75	Location 6377 6386	Louisiana
+T76	Location 6678 6683	Texas
+#71	AnnotatorNotes T72	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#72	AnnotatorNotes T73	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#73	AnnotatorNotes T71	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#74	AnnotatorNotes T74	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#75	AnnotatorNotes T75	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+#77	AnnotatorNotes T76	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T85	Location 7134 7144	Tamaulipas
+#85	AnnotatorNotes T85	<latlng>24.0, -98.75</latlng><pop>2976339.0</pop><geoID>3516391</geoID>
+T86	Location 7165 7171	Sonora
+#86	AnnotatorNotes T86	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T87	Location 7149 7164	Baja California
+#87	AnnotatorNotes T87	<latlng>30.0, -115.0</latlng><pop>3337543.0</pop><geoID>4017700</geoID>
+T88	Location 7208 7218	Tamaulipas
+#88	AnnotatorNotes T88	<latlng>24.0, -98.75</latlng><pop>2976339.0</pop><geoID>3516391</geoID>
+T89	Location 7223 7228	Texas
+#89	AnnotatorNotes T89	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T90	Location 7296 7311	Baja California
+#90	AnnotatorNotes T90	<latlng>30.0, -115.0</latlng><pop>3337543.0</pop><geoID>4017700</geoID>
+T91	Location 7316 7322	Sonora
+#91	AnnotatorNotes T91	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T92	Location 7344 7349	Texas
+#92	AnnotatorNotes T92	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T94	Location 8170 8175	China
+#94	AnnotatorNotes T94	<latlng>35.0, 105.0</latlng><pop>1330044000.0</pop><geoID>1814991</geoID>
+T95	Location 8180 8185	Egypt
+#95	AnnotatorNotes T95	<latlng>27.0, 30.0</latlng><pop>80471869.0</pop><geoID>357994</geoID>
+T97	Location 8534 8540	Mexico
+#97	AnnotatorNotes T97	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T98	Location 8670 8677	Tabasco
+#98	AnnotatorNotes T98	<latlng>18.0, -92.66667</latlng><pop>2041286.0</pop><geoID>3516458</geoID>
+T99	Location 8768 8781	United States
+#99	AnnotatorNotes T99	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T100	Location 8789 8803	Gulf of Mexico
+#100	AnnotatorNotes T100	<latlng>29.1869, -89.93674</latlng><pop>0.0</pop><geoID>4326669</geoID>
+T101	Location 8811 8820	Caribbean
+#101	AnnotatorNotes T101	<latlng>20.38583, -72.33398</latlng><pop>39169962.0</pop><geoID>7729891</geoID>
+T102	Location 8843 8849	Mexico
+#102	AnnotatorNotes T102	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T104	Location 8977 8983	Mexico
+#104	AnnotatorNotes T104	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T105	Location 9205 9218	United States
+#105	AnnotatorNotes T105	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T106	Location 9233 9239	Mexico
+#106	AnnotatorNotes T106	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T107	Location 9304 9310	Mexico
+#107	AnnotatorNotes T107	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T108	Location 9315 9325	California
+#108	AnnotatorNotes T108	<latlng>37.25022, -119.75126</latlng><pop>37691912.0</pop><geoID>5332921</geoID>
+T109	Location 9329 9336	Arizona
+#109	AnnotatorNotes T109	<latlng>34.5003, -111.50098</latlng><pop>5863809.0</pop><geoID>5551752</geoID>
+T110	Location 9380 9386	Mexico
+#110	AnnotatorNotes T110	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T111	Location 9538 9544	Mexico
+#111	AnnotatorNotes T111	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T112	Location 9625 9631	Mexico
+#112	AnnotatorNotes T112	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T113	Location 9967 9973	Mexico
+#113	AnnotatorNotes T113	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T114	Location 10293 10299	Mexico
+#114	AnnotatorNotes T114	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T115	Location 10541 10547	Mexico
+#115	AnnotatorNotes T115	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T116	Location 10445 10458	United States
+T117	Location 10493 10503	California
+T118	Location 10508 10515	Arizona
+T119	Location 10558 10573	Baja California
+#116	AnnotatorNotes T119	<latlng>30.0, -115.0</latlng><pop>3337543.0</pop><geoID>4017700</geoID>
+T120	Location 10695 10701	Mexico
+#117	AnnotatorNotes T120	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T121	Location 10746 10755	Chihuahua
+#118	AnnotatorNotes T121	<latlng>28.75, -106.25</latlng><pop>3316178.0</pop><geoID>4014336</geoID>
+T122	Location 10765 10771	Sonora
+#119	AnnotatorNotes T122	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T123	Location 10817 10823	Sonora
+#120	AnnotatorNotes T123	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T124	Location 10785 10795	Nuevo Leon
+#121	AnnotatorNotes T124	<latlng>25.58333, -99.75</latlng><pop>4123418.0</pop><geoID>3522542</geoID>
+T126	Location 11142 11148	Mexico
+#123	AnnotatorNotes T126	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T129	Location 11433 11446	United States
+#126	AnnotatorNotes T129	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T130	Location 11547 11553	Mexico
+#127	AnnotatorNotes T130	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T131	Location 11811 11824	United States
+#128	AnnotatorNotes T131	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T132	Location 11836 11846	California
+#129	AnnotatorNotes T132	<latlng>37.25022, -119.75126</latlng><pop>37691912.0</pop><geoID>5332921</geoID>
+T133	Location 11949 11955	Mexico
+#130	AnnotatorNotes T133	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T134	Location 11971 11977	Sonora
+#131	AnnotatorNotes T134	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T135	Location 11985 11995	Nuevo Leon
+#132	AnnotatorNotes T135	<latlng>25.58333, -99.75</latlng><pop>4123418.0</pop><geoID>3522542</geoID>
+T136	Location 12003 12013	Tamaulipas
+#133	AnnotatorNotes T136	<latlng>24.0, -98.75</latlng><pop>2976339.0</pop><geoID>3516391</geoID>
+T137	Location 12020 12028	Coahuila
+#134	AnnotatorNotes T137	<latlng>27.33333, -102.0</latlng><pop>2415862.0</pop><geoID>4013674</geoID>
+T138	Location 12035 12044	Chihuahua
+#135	AnnotatorNotes T138	<latlng>28.75, -106.25</latlng><pop>3316178.0</pop><geoID>4014336</geoID>
+T139	Location 12055 12070	Baja California
+#136	AnnotatorNotes T139	<latlng>30.0, -115.0</latlng><pop>3337543.0</pop><geoID>4017700</geoID>
+T140	Location 12147 12162	Baja California
+#137	AnnotatorNotes T140	<latlng>30.0, -115.0</latlng><pop>3337543.0</pop><geoID>4017700</geoID>
+T141	Location 12167 12173	Sonora
+#138	AnnotatorNotes T141	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T142	Location 12315 12321	Mexico
+#139	AnnotatorNotes T142	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T143	Location 12479 12485	Mexico
+#140	AnnotatorNotes T143	<latlng>23.0, -102.0</latlng><pop>112468855.0</pop><geoID>3996063</geoID>
+T144	Location 3394 3396	US
+#141	AnnotatorNotes T144	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T93	Location 10578 10584	Sonora
+#93	AnnotatorNotes T93	<latlng>29.66667, -110.5</latlng><pop>2351427.0</pop><geoID>3982846</geoID>
+T77	Location 8916 8925	Caribbean
+#76	AnnotatorNotes T77	<latlng>20.38583, -72.33398</latlng><pop>39169962.0</pop><geoID>7729891</geoID>
+T78	Location 9475 9482	Tabasco
+#78	AnnotatorNotes T78	<latlng>18.0, -92.66667</latlng><pop>2041286.0</pop><geoID>3516458</geoID>
+#79	AnnotatorNotes T117	<latlng>18.0, -92.66667</latlng><pop>2041286.0</pop><geoID>3516458</geoID>
+#80	AnnotatorNotes T118	<latlng>18.0, -92.66667</latlng><pop>2041286.0</pop><geoID>3516458</geoID>
+#81	AnnotatorNotes T116	<latlng>18.0, -92.66667</latlng><pop>2041286.0</pop><geoID>3516458</geoID>

@@ -1,0 +1,194 @@
+T33	Location 71 82	CONNECTICUT
+#33	AnnotatorNotes T33	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T34	Location 902 913	Connecticut
+#34	AnnotatorNotes T34	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T35	Location 1140 1151	Connecticut
+#35	AnnotatorNotes T35	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T36	Location 3622 3624	US
+#36	AnnotatorNotes T36	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T38	Location 4192 4205	New York City
+#38	AnnotatorNotes T38	<latlng>40.71427, -74.00597</latlng><pop>8175133.0</pop><geoID>5128581</geoID>
+T39	Location 4966 4972	Israel
+#39	AnnotatorNotes T39	<latlng>31.5, 34.75</latlng><pop>7353985.0</pop><geoID>294640</geoID>
+T40	Location 5060 5071	Connecticut
+#40	AnnotatorNotes T40	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T41	Location 5637 5645	New York
+#41	AnnotatorNotes T41	<latlng>43.00035, -75.4999</latlng><pop>19274244.0</pop><geoID>5128638</geoID>
+T42	Location 5650 5662	Pennsylvania
+#42	AnnotatorNotes T42	<latlng>40.27245, -76.90567</latlng><pop>12440621.0</pop><geoID>6254927</geoID>
+T43	Location 5688 5698	California
+#43	AnnotatorNotes T43	<latlng>37.25022, -119.75126</latlng><pop>37691912.0</pop><geoID>5332921</geoID>
+T44	Location 6373 6378	Texas
+#44	AnnotatorNotes T44	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T45	Location 6434 6436	US
+#45	AnnotatorNotes T45	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T46	Location 6672 6680	Illinois
+#46	AnnotatorNotes T46	<latlng>40.00032, -89.25037</latlng><pop>12772888.0</pop><geoID>4896861</geoID>
+T47	Location 6664 6671	Chicago
+#47	AnnotatorNotes T47	<latlng>41.85003, -87.65005</latlng><pop>2720546.0</pop><geoID>4887398</geoID>
+T48	Location 6846 6848	US
+#48	AnnotatorNotes T48	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T49	Location 7756 7767	Connecticut
+#49	AnnotatorNotes T49	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T50	Location 8328 8339	Connecticut
+#50	AnnotatorNotes T50	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T51	Location 8355 8357	US
+T52	Location 8383 8389	Mexico
+T53	Location 8403 8409	Israel
+T54	Location 8440 8451	Connecticut
+#51	AnnotatorNotes T54	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T55	Location 8790 8801	Connecticut
+#52	AnnotatorNotes T55	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#53	AnnotatorNotes T51	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#54	AnnotatorNotes T52	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#55	AnnotatorNotes T53	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T56	Location 8498 8507	Stratford
+T57	Location 8630 8639	Greenwich
+T58	Location 8652 8659	Milford
+T59	Location 8676 8683	Shelton
+#56	AnnotatorNotes T56	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#57	AnnotatorNotes T57	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#58	AnnotatorNotes T58	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#59	AnnotatorNotes T59	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+T60	Location 8803 8812	Stratford
+#60	AnnotatorNotes T60	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T61	Location 8946 8955	Stratford
+#61	AnnotatorNotes T61	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T62	Location 9012 9019	Milford
+#62	AnnotatorNotes T62	<latlng>40.73566, -74.17237</latlng><pop>281944.0</pop><geoID>5101798</geoID>
+T63	Location 9024 9031	Shelton
+#63	AnnotatorNotes T63	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+T64	Location 9986 9988	US
+#64	AnnotatorNotes T64	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T65	Location 10296 10298	US
+#65	AnnotatorNotes T65	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T66	Location 10022 10027	Texas
+T67	Location 10121 10132	Connecticut
+T68	Location 10134 10141	Florida
+T69	Location 10143 10147	Ohio
+T70	Location 10149 10157	New York
+T71	Location 10163 10169	Mexico
+T72	Location 10520 10529	Stratford
+T73	Location 10531 10542	Connecticut
+T74	Location 10871 10880	Stratford
+T77	Location 11068 11079	Connecticut
+#67	AnnotatorNotes T66	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#68	AnnotatorNotes T67	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#69	AnnotatorNotes T68	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#70	AnnotatorNotes T69	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#71	AnnotatorNotes T70	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#72	AnnotatorNotes T71	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#73	AnnotatorNotes T72	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#74	AnnotatorNotes T74	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#76	AnnotatorNotes T73	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#77	AnnotatorNotes T77	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T78	Location 11921 11930	Stratford
+T79	Location 11948 11959	Connecticut
+#78	AnnotatorNotes T79	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T80	Location 12043 12054	Connecticut
+#79	AnnotatorNotes T80	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+#80	AnnotatorNotes T78	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T81	Location 11891 11897	Darien
+#81	AnnotatorNotes T81	<latlng>41.07871, -73.46929</latlng><pop>20732.0</pop><geoID>4832425</geoID>
+T82	Location 11899 11908	Fairfield
+#82	AnnotatorNotes T82	<latlng>41.22496, -73.3712</latlng><pop>916829.0</pop><geoID>4834162</geoID>
+T83	Location 11910 11919	New Haven
+#83	AnnotatorNotes T83	<latlng>41.34882, -72.89986</latlng><pop>862477.0</pop><geoID>4839373</geoID>
+T84	Location 11936 11946	West Haven
+#84	AnnotatorNotes T84	<latlng>41.27065, -72.94705</latlng><pop>54927.0</pop><geoID>4845419</geoID>
+T86	Location 12989 12994	Texas
+#86	AnnotatorNotes T86	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T87	Location 16604 16615	Connecticut
+#87	AnnotatorNotes T87	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T88	Location 16751 16760	Stratford
+#88	AnnotatorNotes T88	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T89	Location 16837 16846	Stratford
+#89	AnnotatorNotes T89	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T90	Location 17109 17120	Connecticut
+#90	AnnotatorNotes T90	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T91	Location 17435 17446	Connecticut
+#91	AnnotatorNotes T91	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T92	Location 17889 17900	Connecticut
+#92	AnnotatorNotes T92	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T93	Location 18386 18397	Connecticut
+#93	AnnotatorNotes T93	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T94	Location 18242 18255	New York City
+T95	Location 18682 18693	Connecticut
+#94	AnnotatorNotes T95	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T96	Location 19066 19081	Central America
+#95	AnnotatorNotes T96	<latlng>25.32417, -99.66797</latlng><pop>154300000.0</pop><geoID>7729892</geoID>
+T97	Location 19414 19423	Stratford
+#96	AnnotatorNotes T97	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+#97	AnnotatorNotes T94	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T98	Location 19534 19541	Chicago
+#98	AnnotatorNotes T98	<latlng>41.85003, -87.65005</latlng><pop>2720546.0</pop><geoID>4887398</geoID>
+T99	Location 19543 19551	Illinois
+#99	AnnotatorNotes T99	<latlng>40.00032, -89.25037</latlng><pop>12772888.0</pop><geoID>4896861</geoID>
+T100	Location 20467 20471	U.S.
+#100	AnnotatorNotes T100	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T101	Location 20786 20788	US
+#101	AnnotatorNotes T101	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T102	Location 21288 21299	Connecticut
+#102	AnnotatorNotes T102	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T103	Location 21788 21797	Stratford
+#103	AnnotatorNotes T103	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T104	Location 22258 22267	Stratford
+#104	AnnotatorNotes T104	<latlng>41.18454, -73.13317</latlng><pop>51384.0</pop><geoID>4843811</geoID>
+T106	Location 23814 23825	Connecticut
+#106	AnnotatorNotes T106	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T107	Location 24826 24837	Connecticut
+#107	AnnotatorNotes T107	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T108	Location 24845 24850	Texas
+#108	AnnotatorNotes T108	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T109	Location 26022 26027	Texas
+#109	AnnotatorNotes T109	<latlng>31.25044, -99.25061</latlng><pop>22875689.0</pop><geoID>4736286</geoID>
+T110	Location 27732 27743	Connecticut
+#110	AnnotatorNotes T110	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T111	Location 27828 27839	Connecticut
+#111	AnnotatorNotes T111	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T112	Location 28159 28170	Connecticut
+#112	AnnotatorNotes T112	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T113	Location 27817 27826	Stratford
+T114	Location 27960 27969	Stratford
+T115	Location 28024 28031	Milford
+T116	Location 28036 28043	Shelton
+#113	AnnotatorNotes T113	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#114	AnnotatorNotes T114	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#115	AnnotatorNotes T115	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+#116	AnnotatorNotes T116	<latlng>52.07455, -0.54708</latlng><pop>0.0</pop><geoID>2643503</geoID>
+T117	Location 84 87	USA
+#117	AnnotatorNotes T117	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T118	Location 678 682	U.S.
+#118	AnnotatorNotes T118	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T119	Location 736 749	North America
+#119	AnnotatorNotes T119	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T120	Location 3443 3456	North America
+#120	AnnotatorNotes T120	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T121	Location 5315 5328	North America
+#121	AnnotatorNotes T121	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T122	Location 6003 6016	North America
+#122	AnnotatorNotes T122	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T123	Location 17400 17413	North America
+#123	AnnotatorNotes T123	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T124	Location 19042 19044	US
+#124	AnnotatorNotes T124	<latlng>14.95, -91.21667</latlng><pop>0.0</pop><geoID>3588045</geoID>
+T125	Location 19046 19061	Caribbean Basin
+#125	AnnotatorNotes T125	<latlng>19.38333, -71.21667</latlng><pop>42450000.0</pop><geoID>3571219</geoID>
+T126	Location 20631 20644	North America
+#126	AnnotatorNotes T126	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T127	Location 25244 25257	North America
+#127	AnnotatorNotes T127	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T128	Location 25497 25510	North America
+#128	AnnotatorNotes T128	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T129	Location 25945 25958	North America
+#129	AnnotatorNotes T129	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T130	Location 27323 27336	North America
+#130	AnnotatorNotes T130	<latlng>46.07323, -100.54688</latlng><pop>0.0</pop><geoID>6255149</geoID>
+T131	Location 44429 44440	Connecticut
+#131	AnnotatorNotes T131	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>
+T85	Location 12975 12981	Harris
+#85	AnnotatorNotes T85	<latlng>29.85728, -95.39234</latlng><pop>4092459.0</pop><geoID>4696376</geoID>
+T37	Location 3745 3749	U.S.
+#37	AnnotatorNotes T37	<latlng>39.76, -98.5</latlng><pop>310232863.0</pop><geoID>6252001</geoID>
+T132	Location 45562 45573	Connecticut
+#132	AnnotatorNotes T132	<latlng>41.66704, -72.66648</latlng><pop>3527249.0</pop><geoID>4831725</geoID>

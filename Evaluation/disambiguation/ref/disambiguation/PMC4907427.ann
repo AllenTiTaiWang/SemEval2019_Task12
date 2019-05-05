@@ -1,0 +1,10 @@
+T31	Location 5546 5555	Argentina
+#31	AnnotatorNotes T31	<latlng>-34, -64</latlng><geoID>3865483 </geoID><pop>41343201</pop>
+T32	Location 5560 5565	Chile
+#32	AnnotatorNotes T32	<latlng>-30, -71</latlng><geoID>3895114 </geoID><pop>16746491</pop>
+T33	Location 40818 40826	Grenoble
+#33	AnnotatorNotes T33	<latlng>45.08333, 5.83333</latlng><geoID>3014727 </geoID><pop>753752</pop>
+T34	Location 41948 41951;41953 41957	Ham burg
+#34	AnnotatorNotes T34	Hamburg <latlng>53.58333, 10</latlng><geoID>2911297 </geoID><pop>1774224</pop>
+T35	Location 5837 5845	Americas
+#35	AnnotatorNotes T35	<latlng> 26.0173, -104.41406</latlng><geoID>10861432 </geoID>
