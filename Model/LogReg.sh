@@ -17,8 +17,8 @@
 #PBS -o /extra/twang3/GEOProject/output/
 
 module load python/3
-source /extra/twang3/pyvenv/bin/activate
+source /path/to/bin/activate
 module load python/3
 cd $PBS_O_WORKDIR
-python3 /extra/twang3/GEOProject/disambiguation/Model/label.py
-python3 /extra/twang3/GEOProject/disambiguation/Model/LogReg.py
+python3 /path/to/SemEval2019_Task12/Model/label.py
+python3 /path/to/SemEval2019_Task12/Model/LogReg.py

@@ -13,15 +13,15 @@
 #PBS -l cput=244:00:00
 ### Walltime is how long your job will run
 #PBS -l walltime=8:00:00
-#PBS -e /extra/twang3/GEOProject/error/
-#PBS -o /extra/twang3/GEOProject/output/
+#PBS -e /path/to/error/
+#PBS -o /path/to/output/
 
 module load python/3
-source /extra/twang3/pyvenv/bin/activate
+source /path/to/bin/activate
 module load python/3
 cd $PBS_O_WORKDIR
-python3 /extra/twang3/GEOProject/disambiguation/Feature/FindBILoc.py
-python3 /extra/twang3/GEOProject/disambiguation/Feature/CalDistance.py
-python3 /extra/twang3/GEOProject/disambiguation/Feature/CompMin.py
+python3 /path/to/SemEval2019_Task12/Feature/FindBILoc.py
+python3 /path/to/SemEval2019_Task12/Feature/CalDistance.py
+python3 /path/to/SemEval2019_Task12/Feature/CompMin.py
 
 
