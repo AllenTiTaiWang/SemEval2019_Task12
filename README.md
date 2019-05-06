@@ -41,7 +41,7 @@ Final_dataset should be provided by the task , which contains train, dev,
 and test data.
 
 ```
-mv cp -r /path/to/Final_dataset /path/to/SemEval2019_Task12/Feature/
+cp -r /path/to/Final_dataset /path/to/SemEval2019_Task12/Feature/
 ```
 
 Also, create a file named **data** which contains three empty files: dev, train, and test, 
@@ -54,7 +54,7 @@ mkdir /path/to/SemEval2019_Task12/data/train
 mkdir /path/to/SemEval2019_Task12/data/test
 mkdir /path/to/SemEval2019_Task12/data/dev
 
-mv cp /path/to/geo_dict_with_population_lonalt.txt /path/to/SemEval2019_Task12/data/
+cp /path/to/geo_dict_with_population_lonalt.txt /path/to/SemEval2019_Task12/data/
 ```
 
 This task can't run without data and dictionary.
